@@ -1,5 +1,5 @@
 ### 9. 이미지 넣기
-![PCWK Cafe](https://github.com/unicon.png,"설명문구")  
+![PCWK Cafe](https://github.com/DkPJS/MARKDOWN_EDU/blob/main/duke.png)
 
 
 ### 8. 강조
